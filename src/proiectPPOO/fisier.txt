@@ -1,0 +1,7 @@
+Comenzi{id=100, numeLivrator='Tudor', produseList=[Produse{id=1, denumire='Lapte', pret=6.7, cantitate=2}, Produse{id=2, denumire='Paine', pret=3.4, cantitate=4}, Produse{id=3, denumire='Oua', pret=0.6, cantitate=20}]}
+Comenzi{id=200, numeLivrator='Tudor si Andrei', produseList=[Produse{id=4, denumire='Frigider', pret=1049.0, cantitate=1}, Produse{id=5, denumire='MasinaDeSpalat', pret=799.0, cantitate=1}]}
+Comenzi{id=400, numeLivrator='Andrei', produseList=[Produse{id=10, denumire='MonitorPC', pret=799.0, cantitate=1}]}
+Comenzi{id=600, numeLivrator='Tudor', produseList=[Produse{id=20, denumire='UscatorDePar', pret=58.9, cantitate=1}, Produse{id=21, denumire='Sampon', pret=14.5, cantitate=2}, Produse{id=22, denumire='OchelariSoare', pret=32.0, cantitate=1}, Produse{id=23, denumire='ProsopBaie', pret=7.8, cantitate=2}, Produse{id=24, denumire='MicrofonPc', pret=102.0, cantitate=1}]}
+Comenzi{id=300, numeLivrator='Tudor si Andrei', produseList=[Produse{id=30, denumire='SaciGunoi', pret=6.7, cantitate=2}, Produse{id=31, denumire='ApaMinerala2.5', pret=3.3, cantitate=3}]}
+Comenzi{id=500, numeLivrator='Andrei', produseList=[Produse{id=50, denumire='Paine', pret=2.6, cantitate=2}]}
+Comenzi{id=800, numeLivrator='Tudor', produseList=[Produse{id=81, denumire='Paine', pret=2.3, cantitate=3}]}

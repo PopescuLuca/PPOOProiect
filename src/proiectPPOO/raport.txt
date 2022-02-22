@@ -1,0 +1,7 @@
+Comanda 100 are costul total 39.0
+Comanda 200 are costul total 1848.0
+Comanda 300 are costul total 23.3
+Comanda 400 are costul total 799.0
+Comanda 500 are costul total 5.2
+Comanda 600 are costul total 237.5
+Comanda 800 are costul total 6.8999996
